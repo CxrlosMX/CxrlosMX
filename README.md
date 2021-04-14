@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 ### About me
 _personal_
-* :star:school: Student from Tecnologico De Tlaxico:v:
-* :star:smile: I´m twenty years old:
-* :star:hourglass: Junior developer:
+* :star:school: Student from Tecnologico De Tlaxico*:v:
+* :star:smile: I´m twenty years old*:v:
+* :star:hourglass: Junior developer*:v:
 
 
 
