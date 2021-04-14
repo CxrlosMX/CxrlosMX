@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 ### About me
 
-* :star:school: Student from Tecnologico De Tlaxico:
+* :star:school: Student from Tecnologico De Tlaxico:v:
 * :star:smile: I´m twenty years old:
 * :star:hourglass: Junior developer:
 
