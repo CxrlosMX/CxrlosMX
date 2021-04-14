@@ -5,9 +5,9 @@
 
 ### About me
 
-* :star::school: Student from Tecnologico De Tlaxico*:v:
-* :star::smile: I´m twenty years old*:v:
-* :star::hourglass: Junior developer*:v:
+* :star::school: Student from Tecnologico De Tlaxico:v:
+* :star::smile: I´m twenty years old:v:
+* :star::hourglass: Junior developer:v:
 
 
 
