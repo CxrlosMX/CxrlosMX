@@ -7,7 +7,7 @@
 
 * :fire::bowtie: I´m twenty years old:dizzy:
 * :fire::hourglass: Junior developer:sparkles:
-* :fire::headphones: Music:eye::white_heart:
+* :fire::notes: Love Music:eye::white_heart:
 
 
 
