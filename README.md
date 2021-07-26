@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" />
 </p>
-<h1 align="center">Hello! I’m Carlos Rendon, WEB developer from México 	:mexico:</h1>
+<h1 align="center">Hello! I’m Carlos Rendon, WEB developer from México:coffee:</h1>
 
 
 _About me_:lemon:
