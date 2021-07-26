@@ -5,9 +5,9 @@
 
 ### About me
 
-* :star::bowtie: I´m twenty years old:dizzy:
-* :star::hourglass: Junior developer:sparkles:
-* :star::headphones: I love the music:v:
+* :fire::bowtie: I´m twenty years old:dizzy:
+* :fire::hourglass: Junior developer:sparkles:
+* :fire::headphones: I love the music:eye::white_heart:
 
 
 
