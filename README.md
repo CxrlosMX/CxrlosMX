@@ -1,13 +1,15 @@
-![DEV](https://user-images.githubusercontent.com/77459857/114776782-744f1000-9d38-11eb-811c-1a4893b103ba.gif)
+
+<p align="center">
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" />
+</p>
+<h1 align="center">Hello! I’m Carlos Rendon, WEB developer from México</h1>
 
 
-## Hello! I’m Carlos Rendon, WEB developer from México
+_About me_
 
-### About me
-
-* :fire::bowtie: I´m twenty years old:dizzy:
-* :fire::hourglass: Junior developer:sparkles:
-* :fire::headphones: Love Music:eye::white_heart:
+* :fire::bowtie: _I´m twenty years old_:dizzy:
+* :fire::hourglass: _Junior developer_:sparkles:
+* :fire::headphones: _Love Music_:eye::white_heart:
 
 
 
