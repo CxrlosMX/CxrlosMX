@@ -1,13 +1,13 @@
 ![DEV](https://user-images.githubusercontent.com/77459857/114776782-744f1000-9d38-11eb-811c-1a4893b103ba.gif)
 
 
-## Hello! I’m Carlos Rendon, WEB developer from Mexico. I’m an university student...
+## Hello! I’m Carlos Rendon, WEB developer from Mexico
 
 ### About me
 
 * :star::school: Student from Tecnologico De Tlaxiaco:v:
 * :star::smile: I´m twenty years old:v:
-* :star::hourglass: Junior developer:v:
+* :star::hourglass: Junior developer:sparkles:
 * :star::headphones: I love the music:v:
 
 
