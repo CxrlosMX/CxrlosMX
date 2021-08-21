@@ -5,7 +5,7 @@
 <h1 align="center">Hello! I’m Carlos Rendon, WEB developer from México:coffee:</h1>
 
 
-_About me_:lemon:
+_About me_
 
 * :fire: _I´m twenty years old_:dizzy:
 * :fire: _Junior developer_:sparkles:
