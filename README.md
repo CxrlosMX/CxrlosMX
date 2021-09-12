@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://pasaporteymantacom.files.wordpress.com/2017/01/imagen.gif"/>
 </p>
-<h1 align="center">Hello! I’m Carlos Rendon, WEB developer from México:coffee:</h1>
+<h1 align="center" style:"arial">Hello! I’m Carlos Rendon, WEB developer from México:coffee:</h1>
 
 
 _About me_
