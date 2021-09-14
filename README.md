@@ -1,8 +1,8 @@
 
 
-<h1 align="center" >Hello! I’m Carlos Rendon, WEB developer from México:coffee:</h1>
+<h2 align="center" >Hi there, I’m Carlos Rendon:smile::coffee:</h2>
 <p align="center">
-  <img src="https://pasaporteymantacom.files.wordpress.com/2017/01/imagen.gif"/>
+  <img src="https://3.bp.blogspot.com/-DC0l3jus_LQ/WtJho4EeP5I/AAAAAAAAKi8/bioFYEo7S3opViHLpHUft5FayLe-1vEBQCLcBGAs/s400/giphy.gif"/>
 </p>
 
 _About me_
