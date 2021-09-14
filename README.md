@@ -17,6 +17,6 @@ _About me_
   
 </a>
 <a href="https://github.com/CxrlosMX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=tokyonight"  style="max-width: 100%;" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=tokyonight"  style="max-width: 100%;" height="180em"/>
  
 </a>
