@@ -11,5 +11,5 @@ _About me_
 * :fire: _Junior developer_:sparkles:
 * :fire: _Love Music_:eye::white_heart:
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CxrlosMX &theme=radical)
 
