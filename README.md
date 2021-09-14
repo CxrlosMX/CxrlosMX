@@ -11,5 +11,7 @@ _About me_
 * :fire: _Junior developer_:sparkles:
 * :fire: _Love Music_:eye::white_heart:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CxrlosMX&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact)](https://github.com/CxrlosMX/github-readme-stats)
+
 
