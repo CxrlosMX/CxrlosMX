@@ -33,3 +33,15 @@ _About me_
 <img alt="cxrlosmx-css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
+<a target="_blank" rel="java" href="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img alt="cxrlosmx-java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
+</a>
+<a target="_blank" rel="git" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img alt="cxrlosmx-git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
+</a>
+<a target="_blank" rel="mysql" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img alt="cxrlosmx-sql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
+</a>
