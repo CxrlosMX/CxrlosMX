@@ -14,6 +14,6 @@ _About me_
 
 <a href="https://github.com/CxrlosMX/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=vision-friendly-dark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact" width="410"/>
 </a>
 
