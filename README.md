@@ -12,8 +12,11 @@ _About me_
 * :fire: _Love Music_:eye::white_heart:
 ---
 
-<a href="https://github.com/CxrlosMX/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=radical"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact" width="411"/>
+<a href="https://github.com/CxrlosMX">
+  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=radical" style="max-width: 100%;" height="180em"/>
+  
 </a>
-
+<a href="https://github.com/CxrlosMX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=tokyonight"  style="max-width: 100%;" height="180em"/>
+ 
+</a>
