@@ -18,5 +18,18 @@ _About me_
 </a>
 <a href="https://github.com/CxrlosMX">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=tokyonight"  style="max-width: 100%;" height="180em"/>
- 
+</a>
+<br>
+<a target="_blank" rel="javasript" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img alt="CxrlosMX-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
+</a>
+
+<a target="_blank" rel="html" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="cxrlosmx-html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
+</a>
+<a target="_blank" rel="css" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img alt="cxrlosmx-css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
 </a>
