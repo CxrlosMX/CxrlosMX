@@ -13,11 +13,11 @@ _About me_
 ---
 <p align="center">
 <a href="https://github.com/CxrlosMX">
-  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=radical" style="max-width: 100%;" height="175rem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=dark" style="max-width: 100%;" height="175rem"/>
   
 </a>
 <a href="https://github.com/CxrlosMX">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=radical"  style="max-width: 100%;" height="175rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=vue"  style="max-width: 100%;" height="175rem"/>
 </a>
 </p>
 <br>
