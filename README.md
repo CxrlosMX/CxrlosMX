@@ -1,8 +1,8 @@
 
 
-<h4 align="center" >Hi there, I’m Carlos:</h4>
+<h5 align="center" >Hi:cloud:</h5>
 <p align="center">
-  <img src="https://3.bp.blogspot.com/-DC0l3jus_LQ/WtJho4EeP5I/AAAAAAAAKi8/bioFYEo7S3opViHLpHUft5FayLe-1vEBQCLcBGAs/s400/giphy.gif"/>
+  <img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/>
 </p>
 
 _About me_
@@ -13,11 +13,11 @@ _About me_
 ---
 <p align="center">
 <a href="https://github.com/CxrlosMX">
-  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=dark" style="max-width: 100%;" height="175rem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=midnight-purple" style="max-width: 100%;" height="175rem"/>
   
 </a>
 <a href="https://github.com/CxrlosMX">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=vue"  style="max-width: 100%;" height="175rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=midnight-purple"  style="max-width: 100%;" height="175rem"/>
 </a>
 </p>
 <br>
