@@ -11,14 +11,15 @@ _About me_
 * :fire: _University student_:sparkles:
 * :fire: _Love Music_:eye::white_heart:
 ---
-
+<p align="center">
 <a href="https://github.com/CxrlosMX">
-  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=radical" style="max-width: 100%;" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=radical" style="max-width: 100%;" height="175rem"/>
   
 </a>
 <a href="https://github.com/CxrlosMX">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=radical"  style="max-width: 100%;" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=radical"  style="max-width: 100%;" height="175rem"/>
 </a>
+</p>
 <br>
 <a target="_blank" rel="javasript" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="CxrlosMX-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"
