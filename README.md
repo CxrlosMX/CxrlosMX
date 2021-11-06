@@ -1,6 +1,6 @@
 
 
-<h5 align="center" >Hi:cloud:</h5>
+<h5 align="center" >Hi</h5>
 <p align="center">
   <img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/>
 </p>
