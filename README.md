@@ -10,6 +10,7 @@ _About me_
 * :fire: _I´m twenty years old_:dizzy:
 * :fire: _University student_:sparkles:
 * :fire: _Love Music_:eye::white_heart:
+* :fire: _from_ :us::mexico:
 ---
 <p align="center">
 <a href="https://github.com/CxrlosMX">
