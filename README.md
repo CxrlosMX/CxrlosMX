@@ -2,7 +2,7 @@
 
 <h5 align="center" >Hello</h5>
 <p align="center">
-  <img src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif"/>
+  <img src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif" width="400"/>
 </p>
 
 _About me_
