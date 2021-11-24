@@ -22,29 +22,29 @@ _About me_
 </a>
 </p>
 <br>
-<a target="_blank" rel="javasript" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<a target="_blank" rel="javasript" href="https://www.javascript.com/">
 <img alt="CxrlosMX-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
 
-<a target="_blank" rel="html" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<a target="_blank" rel="html" href="https://html.com/">
 <img alt="html logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
-<a target="_blank" rel="css" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<a target="_blank" rel="css" href="https://css-tricks.com/">
 <img alt="css logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
-<a target="_blank" rel="java" href="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<a target="_blank" rel="java" href="https://www.java.com/es/">
 <img alt="java logo" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
 
-<a target="_blank" rel="mysql" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<a target="_blank" rel="mysql" href="https://www.mysql.com/">
 <img alt="sql logo" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
-<a target="_blank" rel="git" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<a target="_blank" rel="git" href="http://git.com/">
 <img alt="git-logo" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
