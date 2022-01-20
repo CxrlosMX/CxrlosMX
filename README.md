@@ -63,3 +63,7 @@ _About me_
 <img alt="vsc-logo" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
+<a target="_blank" rel="vsc" href="https://www.linux.org/">
+<img alt="linux-logo" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
+</a>
