@@ -22,6 +22,7 @@ _About me_
 </a>
 </p>
 <br>
+<div align="center">
 <a target="_blank" rel="javasript" href="https://www.javascript.com/">
 <img alt="CxrlosMX-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
@@ -63,7 +64,9 @@ _About me_
 <img alt="vsc-logo" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
+
 <a target="_blank" rel="vsc" href="https://www.linux.org/">
 <img alt="linux-logo" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
+</div>
