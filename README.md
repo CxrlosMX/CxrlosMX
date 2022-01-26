@@ -2,7 +2,7 @@
 
 <h5 align="center" ></h5>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" width="1000"/>
+  <img src="http://www.digitalgazetteer.com/images/5.2.gif" width="1000"/>
 </p>
 
 _About me_
