@@ -2,7 +2,7 @@
 
 <h5 align="center" ></h5>
 <p align="center">
-  <img src="http://www.digitalgazetteer.com/images/5.2.gif" width="1000"/>
+  <img src="https://thumbs.gfycat.com/GrossSphericalFulmar-max-1mb.gif" width="800"/>
 </p>
 
 _About me_
