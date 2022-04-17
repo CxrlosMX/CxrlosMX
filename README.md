@@ -7,9 +7,9 @@
 
 _About me_
 
-* :fire: _I´m twenty one years old_:dizzy:
-* :fire: _University student_:sparkles:
-* :fire: _Love Music_:eye::white_heart:
+* :fire: I´m twenty one years old
+* :fire: University student
+* :fire: Love Music
 
 ---
 <p align="center">
