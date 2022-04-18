@@ -14,14 +14,13 @@ _About me_
 ---
 <p align="center">
 <a href="https://github.com/CxrlosMX">
-  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=dark" style="max-width: 100%;" height="175rem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CxrlosMX&show_icons=true&theme=tokyonight" style="max-width: 100%;" height="190rem"/>
   
 </a>
 <a href="https://github.com/CxrlosMX">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=swift"  style="max-width: 100%;" height="175rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxrlosMX&layout=compact&langs_count=7&theme=tokyonight"  style="max-width: 100%;" height="190rem"/>
 </a>
 </p>
-<br>
 <div align="center">
 <a target="_blank" rel="javasript" href="https://www.javascript.com/">
 <img alt="CxrlosMX-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"
@@ -36,16 +35,20 @@ _About me_
 <img alt="css logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
+ <a target="_blank" rel="figma" href="https://www.figma.com">
+<img alt="figma logo" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
+</a>
 <a target="_blank" rel="java" href="https://www.java.com/es/">
 <img alt="java logo" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
 <a target="_blank" rel="spring" href="https://spring.io/">
-<img alt="spring-logo" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" style="max-width: 100%;"
+<img alt="spring-logo" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
 <a target="_blank" rel="mysql" href="https://www.mysql.com/">
-<img alt="sql logo" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="max-width: 100%;"
+<img alt="sql logo" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
 <a target="_blank" rel="sqlserver" href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads">
@@ -58,6 +61,10 @@ _About me_
 </a>
 <a target="_blank" rel="git" href="https://git-scm.com/">
 <img alt="git-logo" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="max-width: 100%;"
+     width="40" height="30" align="middle">
+</a>
+  <a target="_blank" rel="npm" href="https://www.npmjs.com/">
+<img alt="npm-logo" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" style="max-width: 100%;"
      width="40" height="30" align="middle">
 </a>
 <a target="_blank" rel="vsc" href="https://code.visualstudio.com/">
