@@ -7,9 +7,9 @@
 
 _About me_
 
-* :fire: I´m twenty one years old
-* :fire: University student
-* :fire: Love Music
+*  I´m twenty one years old :cloud:
+*  Java Developer :coffee:
+*  Love Music :musical_score:
 
 ---
 <p align="center">
