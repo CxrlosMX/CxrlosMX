@@ -9,7 +9,7 @@ _About me_
 
 *  I´m twenty one years old :cloud:
 *  Java Developer :coffee:
-*  Love Music :musical_score:
+*  FullStack 
 
 ---
 <p align="center">
